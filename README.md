@@ -8,11 +8,12 @@ Insights about game developers:
     Answer: Konami: 295, Capcom: 235, Sega: 149, Ubisoft: 126, Namco: 104
 
 2. Which developer has the highest average user score across their games?
+    
     Answer: Rockstar San Diego: 10, Rockstar Vancouver/Mad Doc Software: 10, SIE Santa Monica Studio: 10, Capcom Production Studio 1: 9.85, Sega WOW Overworks: 9.8
 
 3. Which developer has the highest average critic score across their games?
 
-Answer: Mojang AB: 10, Rockstar Games: 9.75, SIE Santa Monica Studio: 9.7, Flagship Co., Ltd. / Nintendo EAD: 9.6, 2K Australia / 2K Boston: 9.6
+    Answer: Mojang AB: 10, Rockstar Games: 9.75, SIE Santa Monica Studio: 9.7, Flagship Co., Ltd. / Nintendo EAD: 9.6, 2K Australia / 2K Boston: 9.6
 
 4. Which developer has the highest average critic and user score and what years were they active?
 
