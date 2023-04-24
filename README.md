@@ -4,7 +4,6 @@ Analysis on video game reviews from critics and users from 1977-2020
 Insights about game developers:
 
 1. Which developer published and developed the most games in-house?
-
 Answer: Konami: 295, Capcom: 235, Sega: 149, Ubisoft: 126, Namco: 104
 
 2. Which developer has the highest average user score across their games?
