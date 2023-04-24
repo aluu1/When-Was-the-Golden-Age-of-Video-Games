@@ -4,10 +4,10 @@ Analysis on video game reviews from critics and users from 1977-2020
 Insights about game developers:
 
 1. Which developer published and developed the most games in-house?
-  Answer: Konami: 295, Capcom: 235, Sega: 149, Ubisoft: 126, Namco: 104
+    Answer: Konami: 295, Capcom: 235, Sega: 149, Ubisoft: 126, Namco: 104
 
 2. Which developer has the highest average user score across their games?
-  Answer: Rockstar San Diego: 10, Rockstar Vancouver/Mad Doc Software: 10, SIE Santa Monica Studio: 10, Capcom Production Studio 1: 9.85, Sega WOW Overworks: 9.8
+    Answer: Rockstar San Diego: 10, Rockstar Vancouver/Mad Doc Software: 10, SIE Santa Monica Studio: 10, Capcom Production Studio 1: 9.85, Sega WOW Overworks: 9.8
 
 3. Which developer has the highest average critic score across their games?
 
